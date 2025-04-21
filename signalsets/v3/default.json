@@ -140,7 +140,7 @@
   "signals": [
     {"id": "PARKING_BRAKE", "path": "Control", "name": "Parking Brake", "fmt": {"len": 8, "map": {
           "0": { "description": "Off", "value": "Off" },
-          "1": { "description": "On", "value": "On" }
+          "1": { "description": "On",  "value": "On" }
         }}
     }
   ]},
